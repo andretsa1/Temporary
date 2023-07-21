@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ANT.AMAZON.COM/pawmar/workspace/fos7/hardware/amlogic/pop1g/audio/audio_hal'
+let g:netrw_dirhist_2='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/device/mediatek/mt8696/aurisys_param/phone_call'
+let g:netrw_dirhist_3='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/device/mediatek/mt8696/aurisys_param/phone_call/forte_media'
+let g:netrw_dirhist_4='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/vendor/mediatek/proprietary_mt8696/external/AudioParamParser'
+let g:netrw_dirhist_5='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/device/mediatek'
+let g:netrw_dirhist_6='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/device/amazon/karat/audio_config'
+let g:netrw_dirhist_7='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/device/mediatek/mt8696'
+let g:netrw_dirhist_8='/home/ANT.AMAZON.COM/pawmar/workspace/fos8/vendor/mediatek/proprietary_mt8696/hardware/audio/mt8696/local_time'
